@@ -1,0 +1,34 @@
+typewriter
+======
+
+Python program to write text in various ways.
+
+Installation
+------------
+
+Fast install:
+
+::
+
+    pip install typewriter
+
+For a manual install get this package:
+
+::
+
+    wget https://github.com/sarveshbhatnagar/typewriter
+    unzip master.zip
+    rm master.zip
+    cd mycodesnips-master
+
+Install the package:
+
+::
+
+    python setup.py install    
+
+Example
+--------
+
+.. code:: python
+
