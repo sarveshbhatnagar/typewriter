@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/__init__.py
+src/typewriter.py
+typewriter.egg-info/PKG-INFO
+typewriter.egg-info/SOURCES.txt
+typewriter.egg-info/dependency_links.txt
+typewriter.egg-info/requires.txt
+typewriter.egg-info/top_level.txt

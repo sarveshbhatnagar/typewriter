@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: typewriter
+Version: 1.0.0
+Summary: Program with multiple ways to print output on your console!
+Home-page: https://github.com/sarveshbhatnagar/typewriter
+Author: Sarvesh Bhatnagar
+Author-email: sarveshbhatnagar08@gmail.com
+License: MIT
+Description: # Why CodeSnip
+        Its completely free, open source package which helps you print to the console in beautiful ways.
+        
+        ## Usage
+        
+        import typewriter
+        
+        typewriter.write('Hello, World')
+        
+Keywords: typewriter print console type write
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown

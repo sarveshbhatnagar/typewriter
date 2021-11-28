@@ -9,7 +9,7 @@ REQUIREMENTS = ['time']
   
 # some more details 
 CLASSIFIERS = [ 
-    'Development Status :: 1 - Planning'
+    'Development Status :: 1 - Planning',
     'Intended Audience :: Developers', 
     'Topic :: Utilities',
     'License :: OSI Approved :: MIT License',
